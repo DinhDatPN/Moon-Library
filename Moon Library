@@ -1709,8 +1709,8 @@ function MoonLib:MakeWindow(WindowConfig)
 	end  
 	
 	MoonLib:MakeNotification({
-		Name = "UI Library Upgrade",
-		Content = "New UI Library Available at sirius.menu/discord and sirius.menu/rayfield",
+		Name = "Notification !",
+		Content = "Welcome To, Moon Hub.",
 		Time = 5
 	})
 	
